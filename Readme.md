@@ -34,6 +34,7 @@ All the paper can be downloaded at https://pan.baidu.com/s/1IHHwHTh1In3dlWMKNtCK
 
 ## M3S-NIR
 
+- Saliency maps in all  datasets: https://pan.baidu.com/s/1nqa5jLGp82oSR16TPMOIDw  [d121]
 
 
 ## SGDL
