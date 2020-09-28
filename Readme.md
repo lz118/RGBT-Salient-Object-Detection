@@ -52,8 +52,8 @@ All the paper can be downloaded at https://pan.baidu.com/s/1IHHwHTh1In3dlWMKNtCK
 
 ## MIED
 
-- The pretrained model(VGG16) and the saved model can be downloaded at https://pan.baidu.com/s/1oic7jlXDEow6IKGFpAAmYQ  [pqt7]
+- The pretrained model(VGG16) and the saved model can be downloaded at https://pan.baidu.com/s/11lq3mUGRFP7TFvH9Eui14A [3513]
 
-- The training dataset can be downloaded  at https://pan.baidu.com/s/1Pgn2PCCs1AWDN2ba7lv6pg [zlyz]
+- The training dataset can be downloaded  at https://pan.baidu.com/s/1g9ZhVCKQyGpltaIIJv7xJg [1vyn] 
 
 - Project  https://github.com/lz118/Multi-interactive-Encoder-decoder-Network-for-RGBT-Salient-Object-Detection
