@@ -9,8 +9,8 @@ A resource collection of RGBT salient object detection.
 1. A Unified RGB-T Saliency Detection Benchmark: Dataset, Baselines, Analysis and A Novel Approach.
 2. RGB-T Image Saliency Detection via Collaborative Graph Learning.
 3. M3S-NIR: Multi-Modal Multi-Scale Noise-Insensitive Ranking for RGB-T Saliency Detection.
-4.  Multi-interactive Encoder-decoder Network for RGBT Salient Object Detection.
-5.  RGBT Salient Object Detection: A Large-scale Dataset and Benchmark .
+4. Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection.
+5. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark.
 
 All the paper can be downloaded at https://pan.baidu.com/s/1IHHwHTh1In3dlWMKNtCK6A  [evls]
 
@@ -53,8 +53,4 @@ All the paper can be downloaded at https://pan.baidu.com/s/1IHHwHTh1In3dlWMKNtCK
 
 ## MIED
 
-- The pretrained model(VGG16) and the saved model can be downloaded at https://pan.baidu.com/s/11lq3mUGRFP7TFvH9Eui14A [3513]
-
-- The training dataset can be downloaded  at https://pan.baidu.com/s/1g9ZhVCKQyGpltaIIJv7xJg [1vyn] 
-
-- Project  https://github.com/lz118/Multi-interactive-Encoder-decoder-Network-for-RGBT-Salient-Object-Detection
+- Project  https://github.com/lz118/Multi-interactive-Dual-decoder
