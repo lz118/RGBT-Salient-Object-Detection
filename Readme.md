@@ -51,6 +51,6 @@ All the paper can be downloaded at https://pan.baidu.com/s/1IHHwHTh1In3dlWMKNtCK
 
 - Saliency maps in all datasets:  https://pan.baidu.com/s/17vugADwbbMzgncUutpZjGw  [9w8p]
 
-## MIED
+## MIDD
 
 - Project  https://github.com/lz118/Multi-interactive-Dual-decoder
